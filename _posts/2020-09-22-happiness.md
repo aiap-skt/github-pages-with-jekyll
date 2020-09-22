@@ -1,1 +1,4 @@
-it's my first blog
+---
+title: Happiness
+date: 2020-09-22
+---
